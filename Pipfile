@@ -9,6 +9,7 @@ matplotlib = "*"
 numpy = "*"
 sklearn = "*"
 category-encoders = "*"
+nltk = "*"
 
 [dev-packages]
 
