@@ -10,6 +10,8 @@ numpy = "*"
 sklearn = "*"
 category-encoders = "*"
 nltk = "*"
+chart-studio = "*"
+plotly = "*"
 
 [dev-packages]
 
